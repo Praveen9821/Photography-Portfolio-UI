@@ -5,6 +5,12 @@ This project demonstrates sidebar navigation design and clean UI structuring.
 
 ---
 
+## 🔗 Live Demo
+
+[View Live Project](https://praveen9821.github.io/Photography-Portfolio-UI/)
+
+---
+
 ## 🚀 Features
 
 - Sidebar navigation layout
