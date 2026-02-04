@@ -40,7 +40,7 @@ This project was created to strengthen my understanding of:
 
 ## 📸 Preview
 
-![Project Screenshot](./assets/screenshot.png)
+![Project Screenshot](./assets/Screenshot.png)
 
 ---
 
