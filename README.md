@@ -5,11 +5,12 @@ This project demonstrates sidebar navigation design and clean UI structuring.
 
 ---
 
-## 🔗 Live Demo
+<p>
+  <a href="https://praveen9821.github.io/Photography-Portfolio-UI/" target="_blank">
+    🔗 View Live Project
+  </a>
+</p>
 
-[View Live Project](https://praveen9821.github.io/Photography-Portfolio-UI/)
-
----
 
 ## 🚀 Features
 
